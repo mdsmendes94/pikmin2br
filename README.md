@@ -13,8 +13,13 @@ ou
 
 - DeltaPatcher -> contido em todos os release desse repositório
 - Pikmin 2 (USA) -> 
+
 CRC32: 3541416B
+
+
 MD5: 66f8d886afa0742cd9901d1bfe3b114f
+
+
 SHA1: 163a68c656d654388e096d27a768e85823dcf3327
 
 
