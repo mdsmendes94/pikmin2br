@@ -75,6 +75,8 @@ Nenhum conhecido.
 										  
 Reporte bugs, sugestões ou erros de tradução aqui:
 
+https://github.com/mdsmendes94/pikmin2br/issues
+
 Planos futuros:
 -----
 Portar a tradução para a versão de Wii
