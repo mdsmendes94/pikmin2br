@@ -13,7 +13,7 @@ MD5: 66f8d886afa0742cd9901d1bfe3b114f
 SHA1: 163a68c656d654388e096d27a768e85823dcf3327
 
 
-Como aplicar a tradução:
+Como aplicar a tradução com o Metódo 1
 -----
 1. Aplicar o arquivo .xdelta contida nessa pasta sobre a .iso de Pikmin 2 utilizando Delta Patcher ou qualquer outro aplicador de patches .xdelta.
 -----
@@ -26,6 +26,33 @@ Aplicação de tradução Detalhadas:
 3. Na segunda linha, "Xdelta Patch:", clicar no ícone de pasta e selecionar "Tradução Pikmin 2_M1.xdelta"
 
 4. Na terceira e última linha, clicar em "Apply Patch" e esperar.
+-----
+
+Como aplicar a tradução pelo metódo 2
+-----
+1. Limpar dados inúteis da .iso de Pikmin 2 (USA) e aplicar patch com o Delta Patcher.
+
+-----
+Como limpar a .iso de Pikmin 2 de dados inúteis com o GAMECUBE FILE TOOLS(GCFT)
+
+1.1 	Depois de baixar, extrair e rodar o GAMECUBE FILE TOOS que pode ser encontrado aqui: https://github.com/LagoLunatic/GCFT
+1.2 	Na aba GCM ISOS clique em IMPORT GCM e selecione a .iso de Pikmin 2(USA) supracitada.
+1.3 	Clique em EXPORT GCM e salve a nova .iso
+
+-------
+2. Aplicar patch .xdelta na nova iso gerada pelo GCFT
+
+-------
+Aplicação de tradução Detalhadas:
+																															 
+2.1 	Executar DeltaPatcher.exe
+
+2.2 	Na primeira linha, "Original File:", clicar no ícone de pasta  e selecionar a .iso que você exportou com a ferramenta GAMECUBE FILE TOOLS(GCFT)
+
+2.3 	Na segunda linha, "Xdelta Patch:", clicar no ícone de pasta e selecionar "Tradução Pikmin 2_M2.xdelta"
+
+2.4 	Na terceira e última linha, clicar em "Apply Patch" e esperar.
+
 
 Sobre
 -----
