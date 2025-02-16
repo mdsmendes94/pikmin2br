@@ -45,7 +45,7 @@ Como aplicar a tradução pelo metódo 2
 -----
 Como limpar a .iso de Pikmin 2 de dados inúteis com o GAMECUBE FILE TOOLS(GCFT)
 
-1.1 	Depois de baixar, extrair e rodar o GAMECUBE FILE TOOS que pode ser encontrado aqui: https://github.com/LagoLunatic/GCFT
+1.1 	Depois de baixar, extrair e rodar o GAMECUBE FILE TOOLS que pode ser encontrado aqui: https://github.com/LagoLunatic/GCFT
 
 1.2 	Na aba GCM ISOS clique em IMPORT GCM e selecione a .iso de Pikmin 2(USA) supracitada.
 
