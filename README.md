@@ -6,7 +6,9 @@ Utilize sempre a versão mais recente da tradução para uma melhor experiência
 Arquivos necessários
 -----
 - Tradução Pikmin 2_M1.xdelta -> contido em todos os release do Metódo 1 desse repositório
+
 ou
+
 - Tradução Pikmin 2_M2.xdelta -> contido em todos os release do Metódo 2 desse repositório
 
 - DeltaPatcher -> contido em todos os release desse repositório
